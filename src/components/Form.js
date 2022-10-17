@@ -20,7 +20,7 @@ export default function Form() {
 
   return (
     <div className='background'>
-      <h1>HOSTEL COMPLAINT</h1>
+      <h1>ANTI RAGGING FORM</h1>
       <form className='container'>
         <label>Name</label><br></br>
         <input type="text"   placeholder='Enter name' onChange={(e) => setname(e.target.value)} required></input><br></br>

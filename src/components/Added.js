@@ -10,7 +10,7 @@ export default function Added() {
 
   return (
     <div className='background'>
-    <h1>Complaints</h1>
+    <h1>We will get back to you soon!</h1>
     <div className='tablecard'>
       <table>
         <thead>
